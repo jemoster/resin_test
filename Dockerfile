@@ -1,4 +1,4 @@
-FROM resin/raspberrypi-python
+FROM resin/beaglebone-python
 
 # Enable systemd
 ENV INITSYSTEM on
